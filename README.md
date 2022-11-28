@@ -1,4 +1,4 @@
-# Multiagentes-Actividad-integradora
+# Multiagentes Actividad integradora
 
 Karla González Sánchez A01541526
 
